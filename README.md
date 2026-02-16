@@ -10,7 +10,16 @@ Mon parcours s’articule autour de trois axes stratégiques : **Développement 
 - Formation en **développement web full-stack** (React, Tailwind, Node.js, Python).  
 - Expérience dans la **gouvernance GitHub** : protection de branches, CI/CD, automatisation, qualité du code.  
 - Approche méthodique et professionnelle : documentation, tests, reproductibilité.  
-- Objectif : bâtir des architectures robustes et évolutives.  
+- Objectif : bâtir des architectures robustes et évolutives.
+
+  ## ⚙️ GitHub Actions & CI/CD
+Je mets en place des workflows GitHub Actions pour :
+- ✅ Lancer automatiquement les **tests unitaires** (pytest, TensorFlow).  
+- ✅ Vérifier la **qualité du code** (flake8, black, ESLint).  
+- ✅ Effectuer des **scans de sécurité** (CodeQL, Dependabot).  
+- ✅ Déployer automatiquement sur des environnements cloud (AWS, GCP, Vercel, Netlify, Railway, Rander).  
+
+Ces pipelines garantissent que chaque modification est validée, sécurisée et prête pour la production.
 
 ---
 
