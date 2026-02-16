@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Merphy Mademba (aliasFullStackFlow-dev ou Merph-dev)
+# 👋 Salut, moi c’est Merphy Mademba (alias FullStackFlow-dev ou Merph-dev)
 
 ##  Profil professionnel
 Je suis un **développeur et ingénieur généraliste en formation avancée**, passionné par la construction de plateformes multi-domaines et la maîtrise des environnements modernes.  
