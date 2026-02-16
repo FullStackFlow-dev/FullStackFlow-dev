@@ -32,7 +32,7 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 ---
 
 ## 🔐 Cybersécurité
-- Formation en **ingénierie de la sécurité** (IBM, CompTIA).  
+- Formation en **ingénierie de la sécurité** (IBM, CompTIA - En cours).  
 - Pratique sur **TryHackMe** pour le pentesting et la sécurité offensive/défensive.  
 - Intérêt pour le **cloud security, SOC, DevSecOps**.  
 - Objectif : devenir un **ingénieur sécurité multi-domaine**, capable de protéger des environnements complexes.  
