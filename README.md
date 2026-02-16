@@ -57,8 +57,8 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 - GitHub : [Merph-dev](https://github.com/FullStackFlow-dev)  
 - LinkedIn : *www.linkedin.com/in/merph-dev*  
 - Portfolio :
-- Mon portfolio est actuellement en cours de finalisation.  
-Il présentera mes projets phares en **Développement Full-Stack, Data & IA, et Cybersécurité**.  
+   Mon portfolio est actuellement en cours de finalisation.  
+   Il présentera mes projets phares en **Développement Full-Stack, Data & IA, et Cybersécurité**.  
 👉 Disponible prochainement. 
 
 ---
