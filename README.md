@@ -6,13 +6,13 @@ Mon parcours s’articule autour de trois axes stratégiques : **Développement 
 
 ---
 
-## 💻 Développement & Ingénierie généraliste
+##  Développement & Ingénierie généraliste
 - Formation en **développement web full-stack** (React, Tailwind, Node.js, Python).  
 - Expérience dans la **gouvernance GitHub** : protection de branches, CI/CD, automatisation, qualité du code.  
 - Approche méthodique et professionnelle : documentation, tests, reproductibilité.  
 - Objectif : bâtir des architectures robustes et évolutives.
 
-  ## ⚙️ GitHub Actions & CI/CD
+##  GitHub Actions & CI/CD
 Je mets en place des workflows GitHub Actions pour :
 - ✅ Lancer automatiquement les **tests unitaires** (pytest, TensorFlow).  
 - ✅ Vérifier la **qualité du code** (flake8, black, ESLint).  
@@ -23,7 +23,7 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 
 ---
 
-## 📊 Data & Intelligence Artificielle
+##  Data & Intelligence Artificielle
 - Pratique intensive sur **Kaggle**, **Google Colab**, **TensorFlow**, **Jupyter Notebooks**.  
 - Formations intensives sur **LabEx**, **Datacamp**, **CognitiveClass.ai**, **IBM SkillsBuild**, **Google Skills Boost**, **Amazon Learning**, **Coursera**, **edX (CS50 Harvard University)**.  
 - Compétences en **NLP, RAG, LLMOps, agents intelligents**.  
@@ -31,7 +31,7 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 
 ---
 
-## 🔐 Cybersécurité
+##  Cybersécurité
 - Formation en **ingénierie de la sécurité** (IBM, CompTIA - En cours).  
 - Pratique sur **TryHackMe** pour le pentesting et la sécurité offensive/défensive.  
 - Intérêt pour le **cloud security, SOC, DevSecOps**.  
@@ -39,7 +39,7 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 
 ---
 
-## 🎯 Vision
+##  Vision
 - Court terme : combiner pratique interactive et certifications officielles pour accélérer mon portfolio multi-stack.  
 - Long terme : bâtir une réputation d’**ingénieur multi-domaine** (web, data, IA, sécurité), reconnu pour son sérieux et sa capacité à livrer des solutions robustes.  
 
@@ -47,9 +47,9 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 
 ## 📂 Projets phares
 - **ArtéNova Shop** 🛍️ → Application e-commerce moderne (React + Tailwind).  
-- **Nova-Prompt Apps** 🤖 → Assistants hybrides pour générer, corriger et partager du code.  
-- **Workflows GitHub sécurisés** 🔐 → Branch protection, CI/CD, scans de sécurité.  
-- **Modèle de classification Keras** 📊 → Projet de machine learning appliqué aux datasets.    
+- **Nova-Prompt Apps**  → Assistants hybrides pour générer, corriger et partager du code.  
+- **Workflows GitHub sécurisés**  → Branch protection, CI/CD, scans de sécurité.  
+- **Modèle de classification Keras**  → Projet de machine learning appliqué aux datasets.    
 
 ---
 
