@@ -27,16 +27,16 @@ Basé sur le parcours **IBM DevOps & Software Engineering**
 - Cloud: Déploiement multi-cloud (AWS, GCP, Vercel, Railway).
 - Gouvernance GitHub: Branch protection, workflows d'automatisation.
 
----
 
-# 🧠 Data Science & Artificial Intelligence
+
+#    Data Science & Artificial Intelligence
 Basé sur les parcours IBM Data Science & DeepLearning.ai
 Data: Analyse exploratoire (Pandas, NumPy), Big Data (Spark/Hadoop).
 Machine Learning: Régression, Classification, Clustering (Scikit-Learn).
 Deep Learning: Réseaux de neurones, Computer Vision, NLP (TensorFlow, Keras).
 IA Appliquée: RAG, LLMOps, Agents intelligents.
 
-# 📈 Ma Roadmap d'Ingénieur (Certifications en cours)
+#  Ma Roadmap d'Ingénieur (Certifications en cours)
 
 Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur Généraliste Meta.**
 
@@ -49,10 +49,18 @@ Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur G
 
 
 # 📂 Projets Phares
-ArtéNova Shop 🛍️ | E-commerce moderne avec React & Tailwind. Focus sur l'UX et la réactivité.
-Nova-Prompt Apps 🤖 | Assistants hybrides pour la génération et la correction de code.
-Secure Workflows 🛡️ | Templates de sécurité pour GitHub (CI/CD, Dependabot).
-Keras Classification Model 📊 | Modèle de Deep Learning appliqué aux datasets réels.
+
+
+•  ArtéNova Shop 🛍️ | E-commerce moderne avec React & Tailwind. Focus sur l'UX et la réactivité.
+
+•  Nova-Prompt Apps 🤖 | Assistants hybrides pour la génération et la correction de code.
+
+•  Secure Workflows 🛡️ | Templates de sécurité pour GitHub (CI/CD, Dependabot).
+
+•  Keras Classification Model 📊 | Modèle de Deep Learning appliqué aux datasets réels.
+
+---
+
 🌐 Me Retrouver & Collaborer
 Portfolio: merph-dev-portfolio.vercel.app
 LinkedIn: linkedin.com/in/merph-dev
