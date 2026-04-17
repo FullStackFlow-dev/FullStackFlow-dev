@@ -1,55 +1,43 @@
-# 👋 Salut, moi c’est Merphy Mademba (alias FullStackFlow-dev ou Merph-dev)
+# Hello, I'm Merphy Mademba (alias Merph-dev)
 
-##  Profil professionnel
-Je suis un **développeur et ingénieur généraliste en formation avancée**, passionné par la construction de plateformes multi-domaines et la maîtrise des environnements modernes.  
-Mon parcours s’articule autour de trois axes stratégiques : **Développement et ingénierie logicielle**, **Data & Intelligence Artificielle**, et **Cybersécurité**.  
+## Software Engineer | Data Scientist | AI Specialist
 
----
-
-##  Développement & Ingénieur généraliste
-- Formation en **développement web full-stack** (React, Tailwind, Node.js, Python).  
-- Expérience dans la **gouvernance GitHub** : protection de branches, CI/CD, automatisation, qualité du code.  
-- Approche méthodique et professionnelle : documentation, tests, reproductibilité.  
-- Objectif : bâtir des architectures robustes et évolutives.
-
-##  GitHub Actions & CI/CD
-Je mets en place des workflows GitHub Actions pour :
-- ✅ Lancer automatiquement les **tests unitaires** (pytest, TensorFlow).  
-- ✅ Vérifier la **qualité du code** (flake8, black, ESLint).  
-- ✅ Effectuer des **scans de sécurité** (CodeQL, Dependabot).  
-- ✅ Déployer automatiquement sur des environnements cloud (AWS, GCP, Vercel, Netlify, Railway, Rander).  
-
-Ces pipelines garantissent que chaque modification est validée, sécurisée et prête pour la production.
-
----
-
-##  Data & Intelligence Artificielle
-- Pratique intensive sur **Kaggle**, **Google Colab**, **TensorFlow**, **Jupyter Notebooks**.  
-- Formations intensives sur **LabEx**, **Datacamp**, **CognitiveClass.ai**, **IBM SkillsBuild**, **Google Skills Boost**, **Amazon Learning**, **Coursera**, **edX (CS50 Harvard University)**.  
-- Compétences en **NLP, RAG, LLMOps, agents intelligents**.  
-- Objectif : développer des solutions IA appliquées, fiables et reproductibles.   
-
----
-
-##  Vision  
-- Court terme : combiner pratique interactive et certifications officielles pour accélérer mon portfolio multi-stack.  
-- Long terme : bâtir une réputation d’**ingénieur multi-domaine** (web, data, IA, sécurité), reconnu pour son sérieux et sa capacité à livrer des solutions robustes.  
-
----
-
-## 📂 Projets phares
-- **ArtéNova Shop** 🛍️ → Application e-commerce moderne (React + Tailwind).  
-- **Nova-Prompt Apps**  → Assistants hybrides pour générer, corriger et partager du code.  
-- **Workflows GitHub sécurisés**  → Branch protection, CI/CD, scans de sécurité.  
-- **Modèle de classification Keras**  → Projet de machine learning appliqué aux datasets.    
-
----
-
-## 🌐 Me retrouver
-- GitHub : [Merph-dev](https://github.com/FullStackFlow-dev)  
-- LinkedIn : *www.linkedin.com/in/merph-dev*  
-- Portfolio : *https://merph-dev-portfolio.vercel.app*
-  
----
-- ⚡ Fun fact: ...
--->
+Dynamique et rigoureux, je construis mon expertise d'Ingénieur Généraliste à travers un parcours de formation d'élite (Meta, IBM, Microsoft, DeepLearning.ai). Mon approche est centrée sur la logistique réelle : coder ne suffit pas, il faut déployer, sécuriser et passer à l'échelle.
+🛠️ Mon Stack & Expertise en Construction
+🏗️ Software Engineering & Full Stack
+Basé sur les parcours Microsoft & IBM Full Stack
+Languages: Python (Expertise logicielle), JavaScript/TypeScript.
+Frontend: React, Tailwind CSS (Design system & UI/UX).
+Backend: Node.js, Django, REST APIs.
+Databases: PostgreSQL, MongoDB (Ingénierie et administration).
+⚙️ DevOps & Cloud Architecture
+Basé sur le parcours IBM DevOps & Software Engineering
+CI/CD: Pipelines GitHub Actions (Tests auto, Scans CodeQL, Linting).
+Conteneurisation: Docker, Kubernetes.
+Cloud: Déploiement multi-cloud (AWS, GCP, Vercel, Railway).
+Gouvernance GitHub: Branch protection, workflows d'automatisation.
+🧠 Data Science & Artificial Intelligence
+Basé sur les parcours IBM Data Science & DeepLearning.ai
+Data: Analyse exploratoire (Pandas, NumPy), Big Data (Spark/Hadoop).
+Machine Learning: Régression, Classification, Clustering (Scikit-Learn).
+Deep Learning: Réseaux de neurones, Computer Vision, NLP (TensorFlow, Keras).
+IA Appliquée: RAG, LLMOps, Agents intelligents.
+📈 Ma Roadmap d'Ingénieur (Certifications en cours)
+Je suis actuellement un cursus structuré pour obtenir le titre d'Ingénieur Généraliste Meta.
+[En cours] 🟦 Microsoft: Python Software Development.
+[Prévu] 🟦 IBM: Full Stack Software Developer Professional Certificate.
+[Prévu] 🟦 IBM: DevOps and Software Engineering Professional Certificate.
+[Prévu] 🟦 IBM: Data Scientist & Analyst Professional Certificate.
+[Prévu] 🧠 DeepLearning.ai: Machine Learning & Deep Learning Specialization.
+[Objectif Final] ♾️ Meta: Meta Professional Certification (Generalist Engineer Badge).
+📂 Projets Phares
+ArtéNova Shop 🛍️ | E-commerce moderne avec React & Tailwind. Focus sur l'UX et la réactivité.
+Nova-Prompt Apps 🤖 | Assistants hybrides pour la génération et la correction de code.
+Secure Workflows 🛡️ | Templates de sécurité pour GitHub (CI/CD, Dependabot).
+Keras Classification Model 📊 | Modèle de Deep Learning appliqué aux datasets réels.
+🌐 Me Retrouver & Collaborer
+Portfolio: merph-dev-portfolio.vercel.app
+LinkedIn: linkedin.com/in/merph-dev
+Kaggle: [Merph-dev Profile]
+⚡ Fun Fact
+Je préfère une ligne de code documentée et testée à cent lignes de code "magiques". Le scepticisme est ma première étape de debug.
