@@ -6,7 +6,7 @@ Mon parcours s’articule autour de trois axes stratégiques : **Développement 
 
 ---
 
-##  Développement & Ingénierie généraliste
+##  Développement & Ingénieur généraliste
 - Formation en **développement web full-stack** (React, Tailwind, Node.js, Python).  
 - Expérience dans la **gouvernance GitHub** : protection de branches, CI/CD, automatisation, qualité du code.  
 - Approche méthodique et professionnelle : documentation, tests, reproductibilité.  
@@ -27,19 +27,11 @@ Ces pipelines garantissent que chaque modification est validée, sécurisée et 
 - Pratique intensive sur **Kaggle**, **Google Colab**, **TensorFlow**, **Jupyter Notebooks**.  
 - Formations intensives sur **LabEx**, **Datacamp**, **CognitiveClass.ai**, **IBM SkillsBuild**, **Google Skills Boost**, **Amazon Learning**, **Coursera**, **edX (CS50 Harvard University)**.  
 - Compétences en **NLP, RAG, LLMOps, agents intelligents**.  
-- Objectif : développer des solutions IA appliquées, fiables et reproductibles.  
+- Objectif : développer des solutions IA appliquées, fiables et reproductibles.   
 
 ---
 
-##  Cybersécurité
-- Formation en **ingénierie de la sécurité** (IBM, CompTIA - En cours).  
-- Pratique sur **TryHackMe** pour le pentesting et la sécurité offensive/défensive.  
-- Intérêt pour le **cloud security, SOC, DevSecOps**.  
-- Objectif : devenir un **ingénieur sécurité multi-domaine**, capable de protéger des environnements complexes.  
-
----
-
-##  Vision
+##  Vision  
 - Court terme : combiner pratique interactive et certifications officielles pour accélérer mon portfolio multi-stack.  
 - Long terme : bâtir une réputation d’**ingénieur multi-domaine** (web, data, IA, sécurité), reconnu pour son sérieux et sa capacité à livrer des solutions robustes.  
 
