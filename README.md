@@ -7,9 +7,9 @@ Dynamique et rigoureux, je construis mon expertise d'Ingénieur Généraliste à
 ---
 
 
-# 🛠️ Mon Stack & Expertise en Construction
+#  Mon Stack & Expertise en Construction
 
-## **🏗️ Software Engineering & Full Stack**
+## ** Software Engineering & Full Stack**
 
 Basé sur les parcours Microsoft & IBM Full Stack
 Languages: Python (Expertise logicielle), JavaScript/TypeScript.
@@ -18,7 +18,7 @@ Backend: Node.js, Django, REST APIs.
 Databases: PostgreSQL, MongoDB (Ingénierie et administration).
 
 
-# ⚙️ DevOps & Cloud Architecture
+#  DevOps & Cloud Architecture
 
 Basé sur le parcours **IBM DevOps & Software Engineering**
 
@@ -48,7 +48,7 @@ Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur G
 6. [Objectif Final] ♾️ Meta: Meta Professional Certification (Generalist Engineer Badge).
 
 
-# 📂 Projets Phares
+#  Projets Phares
 
 
 •  ArtéNova Shop 🛍️ | E-commerce moderne avec React & Tailwind. Focus sur l'UX et la réactivité.
@@ -61,7 +61,7 @@ Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur G
 
 ---
 
-🌐 Me Retrouver & Collaborer
+ Me Retrouver & Collaborer
 Portfolio: merph-dev-portfolio.vercel.app
 LinkedIn: linkedin.com/in/merph-dev
 Kaggle: [Merph-dev Profile]
