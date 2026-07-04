@@ -88,11 +88,11 @@ Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur G
 
 •  ArtéNova Shop 🛍️ | E-commerce moderne avec React & Tailwind. Focus sur l'UX et la réactivité.
 
-•  Nova-Prompt Apps 🤖 | Assistants hybrides pour la génération et la correction de code.
+•  Nova-Prompt Apps  | Assistants hybrides pour la génération et la correction de code.
 
-•  Secure Workflows 🛡️ | Templates de sécurité pour GitHub (CI/CD, Dependabot).
+•  Secure Workflows  | Templates de sécurité pour GitHub (CI/CD, Dependabot).
 
-•  Keras Classification Model 📊 | Modèle de Deep Learning appliqué aux datasets réels.
+•  Keras Classification Model  | Modèle de Deep Learning appliqué aux datasets réels.
 
 ---
 
@@ -101,5 +101,5 @@ Portfolio: merph-dev-portfolio.vercel.app
 LinkedIn: linkedin.com/in/merph-dev
 Kaggle: [Merph-dev Profile]
 
-⚡ Fun Fact
+  Fun Fact
 Je préfère une ligne de code documentée et testée à cent lignes de code "magiques". Le scepticisme est ma première étape de debug.
