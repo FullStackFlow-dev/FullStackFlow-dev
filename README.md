@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>    
+
 ---
+
 > Dynamique et rigoureux, je construis mon expertise d’Ingénieur logiciel à travers des parcours de formation d’élite (Meta, IBM, Microsoft, DeepLearning.ai). Mon approche est centrée sur la réalité de production : coder ne suffit pas, il faut concevoir des architectures modulaires, sécurisées et prêtes pour le déploiement à l'échelle.
 
 ---
