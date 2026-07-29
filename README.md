@@ -120,10 +120,11 @@ Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur G
 
 ---
 
- Me Retrouver & Collaborer
+#  Retrouve moi pour toute Collaborer
+
 Portfolio: merph-dev-portfolio.vercel.app
 LinkedIn: linkedin.com/in/merph-dev
 Kaggle: [Merph-dev Profile]
 
-  Fun Fact
+  *Fun,*
 Je préfère une ligne de code documentée et testée à cent lignes de code "magiques". Le scepticisme est ma première étape de débogage.
