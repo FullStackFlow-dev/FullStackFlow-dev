@@ -1,6 +1,6 @@
 # Hello, I'm **Merphy Mademba** (alias Merph-dev) 🇸🇳
 
-## ***Software Engineer | Full-Stack Python | Data - Cloud & IA***
+## ***Software Engineer | Full-Stack Python | Data - IA***
 
 <!-- BADGES DE TECHNOLOGIES -->
 <p align="left">
