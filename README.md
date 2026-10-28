@@ -67,12 +67,31 @@
 >-   **Conteneurisation :** Docker.
 >-   **Cloud & Infrastructure :** Gestion et déploiement des logiciels, d'environnements (AWS, GCP).
 
-### 🗄️ Data Engineer & Database, Intelligence Artificielle
+###  Data Engineer & Database, Intelligence Artificielle
 >-   **Data Engineering :** Conception de pipelines ETL/ELT en architecture Bronze/Silver/Gold, orchestrés avec Apache Airflow et Kafka, sur Snowflake et Databricks.
 >-   **Bases de données :** Modélisation, optimisation SQL et administration sur PostgreSQL, MySQL, SQL Server et Oracle.
 >-   **Analyse de données :** Exploration, nettoyage et analyse exploratoire avec Pandas & NumPy.
 >-   **Machine & Deep Learning :** Modèles prédictifs et réseaux de neurones (Scikit-Learn, TensorFlow/Keras).
 >-   **Industrialisation :** Conteneurisation avec Docker et automatisation CI/CD avec GitHub Actions.
+
+###  Architecture
+
+```mermaid
+flowchart LR
+    A[Générateur de données<br/>mobilité urbaine] --> B[(BRONZE<br/>données brutes)]
+    B -->|transfert| M[MIRAH-BI<br/>Bronze]
+    M --> S[(SILVER<br/>nettoyage, enrichissement)]
+    S --> G[(GOLD<br/>KPI, modèle analytique)]
+    G --> D[Tableaux de bord]
+    B -.référence.-> S2[Silver GitHub]
+    S2 -.référence.-> G2[Gold GitHub]
+```
+
+| Couche | Rôle | Principes |
+|---|---|---|
+| **Bronze** | Données brutes issues du générateur | Aucune transformation métier, métadonnées d'ingestion, historique conservé |
+| **Silver** | Données nettoyées et conformées | Typage, standardisation, dédoublonnage, enrichissement |
+| **Gold** | Données analytiques | Modèle dimensionnel, agrégats, KPI |
 
 ---
 
