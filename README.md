@@ -79,7 +79,7 @@
 ```mermaid
 flowchart LR
     A[Générateur de données<br/>mobilité urbaine] --> B[(BRONZE<br/>données brutes)]
-    B -->|transfert| M[MIRAH-BI<br/>Bronze]
+    B -->|transfert| P[Power-BI<br/>Bronze]
     M --> S[(SILVER<br/>nettoyage, enrichissement)]
     S --> G[(GOLD<br/>KPI, modèle analytique)]
     G --> D[Tableaux de bord]
