@@ -55,11 +55,11 @@
 
 #   Stack Technique & Expertises
 
-###   Software Engineering & Full-Stack
->-   **Frontend :** React, React Native, Vue.js (en cours), Tailwind CSS, UI/UX réactif.
+###   Data Engineering & Database & Software 
 >-   **Backend:** Node.js (Express), Python (Django), REST APIs.
 >-   **Languages:** JavaScript, Python, SQL.
 >-   **Databases :** PostgreSQL, MySQL, SQL Server, Oracle SQL, MariaDB,  MongoDB (modélisation et requêtes optimisées).
+>-   **Génération de données** : jeux de données synthétiques avec **Faker** pour tester la volumétrie et la robustesse
 >-   **Data & Big Data :** Exploration et analyse (Pandas, NumPy), traitement distribué à grande échelle (Spark, Hadoop, Databricks).
 
 ###  DevOps & Cloud Architecture
@@ -109,6 +109,18 @@ Pour valider la robustesse d'une plateforme BI en cours de développement, je co
 - **Gouvernance** : rôles, accès, qualité et nettoyage des données
 - **Architecture** : modèle Bronze / Silver / Gold et pipelines réutilisables
 
+---
+### Mobilité urbaine privée au Sénégal : données synthétiques et pipeline de référence
+
+Projet de référence pour une plateforme de Business Intelligence : génération de jeux de données réalistes reproduisant le fonctionnement des plateformes de VTC au Sénégal.
+
+- **Données réalistes** : chauffeurs, passagers, véhicules, courses, paiements, zones géographiques, évaluations, incidents
+- **Reproductibilité** : génération pilotée par graine (`seed`) et volumétrie paramétrable
+- **Architecture Bronze / Silver / Gold**, avec contrat de format sur la couche Bronze
+- **SGBD cible : SQL Server**
+- **Qualité** : contrôles d'intégrité, de cohérence temporelle et de plausibilité, tests `pytest`
+---
+
 ### Technologies de données utilisées
 | Catégorie | Technologies |
 |---|---|
@@ -140,13 +152,6 @@ Je suis un cursus intensif et structuré pour valider mes compétences auprès d
 
 ---
 
-#   Me Retrouver & Collaborer
-*   **Portfolio :** [merph-dev-portfolio.vercel.app](https://merph-dev-portfolio.vercel.app)
-*   **LinkedIn :** [linkedin.com/in/merph-dev](https://linkedin.com/in/merph-dev)
-
-  **Fun Fact :** Je préfère une seule ligne de code documentée, typée et testée à cent lignes de code "magiques". Le scepticisme constructif est ma première étape de débogage.
-
-
 #  DevOps & Cloud Architecture
 
 Basé sur le parcours **IBM DevOps & Software Engineering**
@@ -172,6 +177,8 @@ Je suis actuellement un cursus structuré pour obtenir le titre **d'Ingénieur G
 
 
 >- ArtéNova Shop 🛍️ | E-commerce moderne avec React & Tailwind. Focus sur l'UX et la réactivité.
+>
+>- **[Mobilité urbaine au Sénégal](https://github.com/merphy-mademba/Mirah-BI-Urban-Mobility-Analytics)** | Données synthétiques réalistes de VTC (zones de Dakar, heures de pointe, tarification en FCFA) avec architecture Bronze / Silver / Gold, pour tester une plateforme BI | Python, Faker, SQL Server
 
 >- Nova-Prompt Apps  | Assistants hybrides pour la génération et la correction de code.
 
