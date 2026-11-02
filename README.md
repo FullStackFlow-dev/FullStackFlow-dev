@@ -95,6 +95,30 @@ flowchart LR
 
 ---
 
+## Expérience : plateforme de Business Intelligence multi-sources
+
+**Database & Data Engineer** (stage, depuis août 2026)
+
+Pour valider la robustesse d'une plateforme BI en cours de développement, je conçois et alimente des **bases de données de test en conditions de production**, sur de multiples technologies.
+
+### Ce que je réalise
+- **Génération de données synthétiques** avec **Faker (Python)** : jeux de données volumineux et réalistes, reproductibles, sans aucune donnée personnelle réelle
+- **Création de bases de test** sur chaque technologie supportée par la plateforme
+- **Tests de robustesse et de volumétrie** : ingestion, transformations, DAGs Airflow, identification des goulots d'étranglement
+- **Fiabilité des connexions** : suivi et stabilisation des statuts, accès direct ou via agents locaux
+- **Gouvernance** : rôles, accès, qualité et nettoyage des données
+- **Architecture** : modèle Bronze / Silver / Gold et pipelines réutilisables
+
+### Technologies de données utilisées
+| Catégorie | Technologies |
+|---|---|
+| **Relationnel** | PostgreSQL, MySQL / MariaDB, SQL Server, Oracle |
+| **Entrepôts cloud et analytique** | Snowflake, Google BigQuery, SAP HANA |
+| **NoSQL** | MongoDB |
+| **Sources non relationnelles** | API REST, Microsoft SharePoint |
+| **Outillage** | Python, Faker, Airflow, Docker |
+---
+
 #  Ma Roadmap d'Ingénieur (Certifications en cours)
 
 Je suis un cursus intensif et structuré pour valider mes compétences auprès des leaders mondiaux de l'industrie :
