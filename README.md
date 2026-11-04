@@ -74,25 +74,6 @@
 >-   **Machine & Deep Learning :** Modèles prédictifs et réseaux de neurones (Scikit-Learn, TensorFlow/Keras).
 >-   **Industrialisation :** Conteneurisation avec Docker et automatisation CI/CD avec GitHub Actions.
 
-###  Architecture
-
-```mermaid
-flowchart LR
-    A[Générateur de données<br/>mobilité urbaine] --> B[(BRONZE<br/>données brutes)]
-    B -->|transfert| P[Power-BI<br/>Bronze]
-    M --> S[(SILVER<br/>nettoyage, enrichissement)]
-    S --> G[(GOLD<br/>KPI, modèle analytique)]
-    G --> D[Tableaux de bord]
-    B -.référence.-> S2[Silver GitHub]
-    S2 -.référence.-> G2[Gold GitHub]
-```
-
-| Couche | Rôle | Principes |
-|---|---|---|
-| **Bronze** | Données brutes issues du générateur | Aucune transformation métier, métadonnées d'ingestion, historique conservé |
-| **Silver** | Données nettoyées et conformées | Typage, standardisation, dédoublonnage, enrichissement |
-| **Gold** | Données analytiques | Modèle dimensionnel, agrégats, KPI |
-
 ---
 
 ## Expérience : plateforme de Business Intelligence multi-sources
@@ -121,6 +102,26 @@ Projet de référence pour une plateforme de Business Intelligence : génératio
 - **Qualité** : contrôles d'intégrité, de cohérence temporelle et de plausibilité, tests `pytest`
 ---
 
+###  Architecture
+
+```mermaid
+flowchart LR
+    A[Générateur de données<br/>mobilité urbaine] --> B[(BRONZE<br/>données brutes)]
+    B -->|transfert| P[Power-BI<br/>Bronze]
+    M --> S[(SILVER<br/>nettoyage, enrichissement)]
+    S --> G[(GOLD<br/>KPI, modèle analytique)]
+    G --> D[Tableaux de bord]
+    B -.référence.-> S2[Silver GitHub]
+    S2 -.référence.-> G2[Gold GitHub]
+```
+
+| Couche | Rôle | Principes |
+|---|---|---|
+| **Bronze** | Données brutes issues du générateur | Aucune transformation métier, métadonnées d'ingestion, historique conservé |
+| **Silver** | Données nettoyées et conformées | Typage, standardisation, dédoublonnage, enrichissement |
+| **Gold** | Données analytiques | Modèle dimensionnel, agrégats, KPI |
+
+---
 ### Technologies de données utilisées
 | Catégorie | Technologies |
 |---|---|
@@ -140,7 +141,6 @@ Je suis un cursus intensif et structuré pour valider mes compétences auprès d
 4. [✅ Validé] **Microsoft : Python Software Development** (Cours 1 finalisé).
 5. [ Prévu] **IBM: DevOps and Software Engineering**.
 6. [ Prévu] **DeepLearning.ai: Machine Learning & Deep Learning Specialization**.
-
 ---
 
 #  Projets Phares
@@ -149,7 +149,6 @@ Je suis un cursus intensif et structuré pour valider mes compétences auprès d
 >*   **ArtéNova Shop** 🛍️ | Plateforme Ee-commerce moderne construite avec React et Tailwind CSS. Focus sur l'UX fluide et l'architecture des composants.
 >*   **Nova-Prompt Apps**  | Assistants hybrides pour la génération et la correction de code.
 >*   **Keras Classification Model**   | Modèle de Deep Learning appliqué à des jeux de données réels.
-
 ---
 
 #  DevOps & Cloud Architecture
