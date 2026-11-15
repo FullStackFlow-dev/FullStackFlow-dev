@@ -3,7 +3,7 @@
 
 # Hello, I'm **Merphy Mademba** (alias Merph-dev) 🇸🇳
 
-## ***Ingénieur Data & Architecte Database | Full-Stack Python - Back-end | Data Analyst Python & BI - IA***
+## ***Ingénieur de Données & Architecte de base de Données | Full-Stack Python - Back-end | Data Analyst Python & BI - IA***
 
 <!-- BADGES DE TECHNOLOGIES -->
 <h3 align="left">Langages</h3>
