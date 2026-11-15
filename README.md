@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5029&pause=1200&width=1400&lines=Bonjour%2C+je+m'appelle+Merphy+Mademba+%28alias+Merph-dev%29+;Ing%C3%A9nieur+de+donn%C3%A9es+et+architecte+de+bases+de+donn%C3%A9es;Python+Full-Stack+-+Back-end+%7C+Analyste+de+donn%C3%A9es+Python+%26+BI+-+IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5029&pause=1200&width=1400&lines=Bonjour%2C+je+m'appelle+Merphy+Mademba+%28alias+Merph-dev%29+;Ing%C3%A9nieur+de+donn%C3%A9es+et+architecte+de+base+de+donn%C3%A9es;Python+Full-Stack+-+Back-end+%7C+Analyste+de+donn%C3%A9es+Python+%26+BI+-+IA)](https://git.io/typing-svg)
 
 
 # Hello, I'm **Merphy Mademba** (alias Merph-dev) 🇸🇳
